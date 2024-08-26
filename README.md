@@ -19,6 +19,7 @@ I'm a highly skilled Fullstack Software Engineer with a strong foundation in dev
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 - **Tools/Frameworks:**
+  
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
   ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) 
   ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
