@@ -49,6 +49,9 @@ I'm a highly skilled Fullstack Software Engineer with a strong foundation in dev
   ![MS SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trinhcaokhoa)](https://github.com/trinhcaokhoa/github-readme-stats)
+
+
 
 ## 📫 Let's Connect!
 
